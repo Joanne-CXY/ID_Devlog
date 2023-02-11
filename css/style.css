@@ -18,7 +18,7 @@ body {
     width: 100%;
     height: auto;}
     body {
-      font-family: 'Poiret One', cursive;
+      font-family: 'Lora', serif;
       }
 
   /* Responsive layout - makes a one column-layout instead of a two-column layout */
@@ -31,7 +31,7 @@ body {
       background-color: rgb(255, 255, 255);
       }
       body {
-        font-family: 'Poiret One', cursive;
+        font-family: 'Lora', serif;
         }
 
       iframe {
