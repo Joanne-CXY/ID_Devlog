@@ -1,0 +1,45 @@
+*{
+    font-family: "Dosis", Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 4rem;
+    color:darkblue;
+    background-color: lightyellow;
+    text-align: center;
+}
+h2{
+    margin-left:100px;
+}
+p{
+    font-size: 1.2rem;
+    color:darkblue;
+    background-color: gold;
+}
+#special{
+    color:blue;
+    background-color:green;
+}
+.others {
+    color: green;
+    background-color:pink;
+}
+a:link {
+    color: purple;
+}
+a:visited {
+    color:lightblue;
+}
+a:hover {
+    color: palegreen;
+    font-size: 3rem;
+}
+
+li {
+    font-size: 12px;
+    font-style: italic;
+}
+
+img {
+    border: 5px solid red;
+    border-radius: 10px;
+}
